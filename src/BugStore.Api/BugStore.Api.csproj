@@ -7,4 +7,8 @@
     <UserSecretsId>211245cd-38d8-4ef7-a784-cb0de8f4da11</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BugStore.Infrastructure\BugStore.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
